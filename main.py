@@ -78,6 +78,8 @@ custom_name = {
     "트린": "Tryndamere",
     "트페": "TwistedFate",
     "트위스티드페이트": "TwistedFate",
+    "탐켄치": "TahmKench",
+    "켄치": "TahmKench",
     "피들": "Fiddlesticks",
     "딩거": "Heimerdinger",
     "하이머": "Heimerdinger",
